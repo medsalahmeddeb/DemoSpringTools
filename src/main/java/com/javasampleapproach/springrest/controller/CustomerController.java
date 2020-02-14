@@ -19,9 +19,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.javasampleapproach.springrest.model.Customer;
 import com.javasampleapproach.springrest.repo.CustomerRepository;
-@CrossOrigin(origins = "http://localhost:4200")
+//@CrossOrigin(origins = "http://localhost:4200")
 @RestController
-@RequestMapping("/api")
+//@RequestMapping("/api")
 public class CustomerController {
 
 	@Autowired

@@ -10,7 +10,7 @@
 	<packaging>jar</packaging>
 
 	<name>SpringRestPostGres</name>
-	<description>Demo project for Spring Boot - REST -MySQL</description>
+	<description>Demo project for Spring Boot - REST -MAven2</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
